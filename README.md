@@ -6,12 +6,10 @@
 
 ![LastFM](https://badges.lastfm.workers.dev/last-played?user=mjarzy)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) 
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
 ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
-![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=flat)
 ---
 > [!TIP]
 > Previous coursework and projects repos are uploaded below, feel free to check them out!
