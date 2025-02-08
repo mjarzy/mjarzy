@@ -9,7 +9,7 @@ Want to learn more?
 
 - Visit my website: [jarzynowski.com](https://www.jarzynowski.com/) 
 - Connect with me on: [LinkedIn](https://www.linkedin.com/jarzynowski/)
-- Send me a shout: [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
+- Send me a email: [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
 
 ---
 ### Favorite Equation - [General Relativty](https://en.wikipedia.org/wiki/General_relativity)
