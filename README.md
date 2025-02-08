@@ -2,7 +2,7 @@
 
 I'm Matthew, a third-year Electrical Engineering (EE) studying at [McMaster University](https://www.eng.mcmaster.ca/ece/)
 
-- ✨ I'm passionate about blending high-level tech. with clear and consistant design to work towards a more technologically driven future for all
+- ✨ Passionate about blending high-level tech. with clear and consistant design to work towards a more technologically driven future
 - 🚀 Currently I'm a member on the [McMaster Rocketry Team](https://www.macrocketry.ca/) helping develop the teams first [hybrid rocket engine](https://www.youtube.com/watch?v=w5PqdutmPFs)
 
 Want to learn more?
