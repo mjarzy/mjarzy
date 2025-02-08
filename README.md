@@ -7,7 +7,7 @@ I'm Matthew, a third-year Electrical Engineering (EE) studying at [McMaster Univ
 
 Want to learn more?
 
-- Visit my website: [Jarzynowski.com](https://www.jarzynowski.com/) 
+- Visit my website: [jarzynowski.com](https://www.jarzynowski.com/) 
 - Connect with me on: [Linkedin](https://www.linkedin.com/jarzynowski/)
 - Send me a shout: [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
 
