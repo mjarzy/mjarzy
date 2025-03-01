@@ -7,9 +7,9 @@ I'm Matthew, a third-year Electrical Engineering (EE) studying at [McMaster Univ
 
 Want to learn more?
 
-- Visit my website: [jarzynowski.com](https://www.jarzynowski.com/) 
-- Connect with me on: [LinkedIn](https://www.linkedin.com/in/jarzynowski/)
-- Send me a email: [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
+- Visit my website [jarzynowski.com](https://www.jarzynowski.com/) 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jarzynowski/)
+- Send me a email [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
 
 ---
 ### Favorite Equation - [General Relativity](https://en.wikipedia.org/wiki/General_relativity)
