@@ -12,7 +12,7 @@ Want to learn more?
 - Send me a email: [matthewjarzy@gmail.com](mailto:matthewjarzy@gmail.com) 
 
 ---
-### Favorite Equation - [General Relativty](https://en.wikipedia.org/wiki/General_relativity)
+### Favorite Equation - [General Relativity](https://en.wikipedia.org/wiki/General_relativity)
 
 ### $R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$
 
