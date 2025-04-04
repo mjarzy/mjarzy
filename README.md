@@ -3,7 +3,7 @@
 I'm Matthew, a third-year Electrical Engineering (EE) studying at [McMaster University](https://www.eng.mcmaster.ca/ece/)
 
 - Interested in high-level tech and intuitive, disciplined design.
-- Current member of the [McMaster Rocketry Team](https://www.macrocketry.ca/) contributing to the development of the teams first [hybrid rocket engine](https://www.youtube.com/watch?v=w5PqdutmPFs)
+- Current member of the [McMaster Rocketry Team](https://www.macrocketry.ca/) helping develop the teams first [hybrid rocket engine](https://www.youtube.com/watch?v=w5PqdutmPFs)
 
 ---
 ### Favorite Equation 
