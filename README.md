@@ -4,11 +4,6 @@ I’m Matthew, a third-year Electrical Engineering (EE) student at [McMaster Uni
 - Interested in high-level tech. and intuitive, disciplined design. 
 - Member of the [McMaster Rocketry Team](https://www.macrocketry.ca/), helping develop the team’s first [hybrid rocket motor](https://www.youtube.com/watch?v=w5PqdutmPFs).
 
-## Links  
-- **Website:** [jarzynowski.com](https://jarzynowski.com)  
-- **LinkedIn:** [linkedin.com/in/jarzynowski](https://www.linkedin.com/in/jarzynowski)  
-- **Email:** [m[at]jarzynowski.com](mailto:matthew@jarzynowski.com)
-
 ## Favorite Equation
 *Einstein’s field equation — general relativity in one line.* [Ref](https://en.wikipedia.org/wiki/General_relativity)  
 
