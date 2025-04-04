@@ -7,7 +7,7 @@ I’m Matthew, a third-year Electrical Engineering (EE) student at [McMaster Uni
 ## Links  
 - **Website:** [jarzynowski.com](https://jarzynowski.com)  
 - **LinkedIn:** [linkedin.com/in/jarzynowski](https://www.linkedin.com/in/jarzynowski)  
-- **Email:** [matthew[at]jarzynowski.com](mailto:matthew@jarzynowski.com)
+- **Email:** [m[at]jarzynowski.com](mailto:matthew@jarzynowski.com)
 
 ## Favorite Equation
 *Einstein’s field equation — general relativity in one line.* [Ref](https://en.wikipedia.org/wiki/General_relativity)  
