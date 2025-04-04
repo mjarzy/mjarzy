@@ -7,10 +7,9 @@ I'm Matthew, a third-year Electrical Engineering (EE) studying at [McMaster Univ
 
 ---
 ### Favorite Equation 
-*Einsteins field equation - general relativity in one line: 
+*Einsteins field equation - general relativity in one line. [Ref](https://en.wikipedia.org/wiki/General_relativity)* 
 ### $R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$
 
-- [General Relativity](https://en.wikipedia.org/wiki/General_relativity)
 
 Want to learn more?
 
