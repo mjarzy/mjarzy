@@ -1,7 +1,10 @@
 ## Hey 👋  
-I’m Matthew, a third-year Electrical Engineering (EE) student at [McMaster University](https://www.eng.mcmaster.ca/).
 
-- Applications Engineer at [Semtech](https://en.wikipedia.org/wiki/Semtech?useskin=vector), developing advanced high-speed [optical interconnects](https://en.wikipedia.org/wiki/Optical_module?useskin=vector) for next-gen AI infrastructure.
+I’m Matthew, a fourth-year electrical engineering (EE) student at [McMaster University](https://www.eng.mcmaster.ca/).
+
+Currently I'm on an internship at [Semtech](https://en.wikipedia.org/wiki/Semtech?useskin=vector) working as an Applications Engineer helping our customers develop [advanced optical modules](https://en.wikipedia.org/wiki/Optical_module?useskin=vector) for next-gen AI.
+
+I’m also the Co-VP of Marketing & Design for the [McMaster Engineering Competition](https://www.instagram.com/macengcomp/).
 
 ## Favorite Equation
 *Einstein’s field equation — general relativity in one line.* [Ref](https://en.wikipedia.org/wiki/General_relativity)  
